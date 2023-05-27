@@ -1,8 +1,11 @@
 
 /* Your CSS Code here. */
 
-.heading{
+.main{
 	width: 200px;
+}
+
+.heading{
 	background: purple;
 	padding: 10px;
 	font-size: 20px;
